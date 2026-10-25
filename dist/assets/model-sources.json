@@ -1,0 +1,56 @@
+[
+  {
+    "name": "lion",
+    "url": "https://cdn.3dassets.dev/assets/30195/v1/model.glb",
+    "source": "https://3dassets.dev/assets/exotic-wildlife-hd-african-lion-male-4417c586",
+    "license": {
+      "slug": "cc0-1.0",
+      "name": "CC0 1.0 Universal",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attributionRequired": false
+    }
+  },
+  {
+    "name": "giraffe",
+    "url": "https://cdn.3dassets.dev/assets/30205/v1/model.glb",
+    "source": "https://3dassets.dev/assets/exotic-wildlife-hd-reticulated-giraffe-7a2678a4",
+    "license": {
+      "slug": "cc0-1.0",
+      "name": "CC0 1.0 Universal",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attributionRequired": false
+    }
+  },
+  {
+    "name": "elephant",
+    "url": "https://cdn.3dassets.dev/assets/30210/v1/model.glb",
+    "source": "https://3dassets.dev/assets/exotic-wildlife-hd-african-elephant-bull-29d8c02f",
+    "license": {
+      "slug": "cc0-1.0",
+      "name": "CC0 1.0 Universal",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attributionRequired": false
+    }
+  },
+  {
+    "name": "dog",
+    "url": "https://www.innerscene.com/api/library/small-dog-standing-ce18ca9c/download",
+    "source": "https://www.innerscene.com/tools/library/3d-parts/small-dog-standing-ce18ca9c",
+    "license": {
+      "name": "CC0 1.0 Universal",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  },
+  {
+    "name": "cat",
+    "title": "Bicolor Cat",
+    "author": "kenchoo",
+    "source": "https://sketchfab.com/3d-models/bicolor-cat-e623a618ca344a8393d7ba4d63ec23cf",
+    "mirror": "https://github.com/code4fukui/vr-cats",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "changes": "Không sửa mesh; chuẩn hóa kích thước/vị trí khi hiển thị. Dùng tư thế tĩnh."
+  }
+]
